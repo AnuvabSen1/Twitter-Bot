@@ -13,4 +13,4 @@ FOLLOW = False
 # Twitter bot sleep time settings in seconds. For example SLEEP_TIME = 300 means 5 minutes.
 # you can decrease it or increase it as you like.Please,use large delay if you are running bot all the time  so that your account does not get banned.
 
-SLEEP_TIME = 10
+SLEEP_TIME = 60
